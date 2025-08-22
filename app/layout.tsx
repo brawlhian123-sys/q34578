@@ -26,7 +26,6 @@ export const metadata: Metadata = {
     description: "Join the revolution of intelligent memecoins with $BRAIN. Built on Solana for lightning-fast transactions.",
     creator: "@BRAIN__LET",
   },
-  generator: 'v0.app'
 }
 
 export default function RootLayout({
